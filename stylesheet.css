@@ -17,3 +17,12 @@ body {
   color: #ff0000;
   background-size: cover;
 }
+
+.btn {
+  padding: 8px 20px;
+  color: #fff;
+}
+
+.signup {
+  background-color: #FE9A2E;
+}
