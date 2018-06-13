@@ -1,3 +1,14 @@
-.title {
-  color: #02ccba;
+body {
+  font-family: serif;
+}
+
+.container {
+  width: 1170px;
+  padding: 20px 40px;
+  margin: 0 auto;
+}
+
+.top-wrapper h1 {
+  font-size: 140px;
+  color: #ff0000;
 }
