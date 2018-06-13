@@ -10,5 +10,10 @@ body {
 
 .top-wrapper h1 {
   font-size: 140px;
+}
+
+.top-wrapper {
+  background-image: url('https://github.com/yousukeend/yousukeend.github.io/blob/master/1528803266704.jpg');
   color: #ff0000;
+  background-size: cover;
 }
